@@ -81,3 +81,17 @@ lib/test/evaluation/local.py  # paths about testing
 We thank the authors for making their codes available.
 
 ## Citation
+
+If you find our work useful, please consider citing:
+
+```bibtex
+@ARTICLE{basit_aitrack25,
+  author={Alawode, Basit and Javed, Sajid},
+  journal={IEEE Access}, 
+  title={AITtrack: Attention-based Image-Text Alignment for Visual Tracking}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2025.3555816}}
+```
