@@ -24,6 +24,10 @@ performance.
 
 4. We perform rigorous experimental evaluations on seven publicly available VOT benchmark datasets to show the advantages of our proposed AITrack.
 
+## The ROI-based Text-guided Encoder
+
+![AITrack ROI-based Text-guided Encoder](images/TGE.png)
+
 ## Results Comparison
 
 1. Trackers with Only Bounding Box (BB) Initialization
