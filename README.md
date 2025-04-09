@@ -24,18 +24,47 @@ performance.
 
 4. We perform rigorous experimental evaluations on seven publicly available VOT benchmark datasets to show the advantages of our proposed AITrack.
 
+## Results Comparison
+
+1. Trackers with Only Bounding Box (BB) Initialization
+
+![AITrack Results: Bounding Box Only](images/Results_BBox_only.png)
+
+2. Trackers with Bounding Box (BB) and Natural Language (NL) Initialization
+
+![AITrack Results: Bounding Box Only](images/Results_BBox_and_NL.png)
+
 ## Environment Setup
 
+1. Use the Anaconda (CUDA 11.3)
+    ```
+    conda env create -f environment.yml
+    conda activate aitrack
+    ```
+
+2. Clone this repository
+    ```
+    git clone https://github.com/BasitAlawode/AITrack AITrack
+    cd AITrack
+    ```
+
+## Set project paths
+Modify project paths by editing these two files
+```
+lib/train/admin/local.py  # paths about training
+lib/test/evaluation/local.py  # paths about testing
+```
 
 ## Dataset Preparation
 
 
 ## Training
-
+ - Checkpoints (alpha_clip, and STA)
+ - Base checkpoint
 
 ## Evaluation
 
- - Checkpoints
+ - Trained checkpoints
 
 
 ## Acknowledgement
