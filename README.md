@@ -69,5 +69,11 @@ lib/test/evaluation/local.py  # paths about testing
 
 ## Acknowledgement
 
+- Our work is based on 
+    1. [ARTrack](https://github.com/MIV-XJTU/ARTrack), 
+    2. [Alpha-CLIP](https://github.com/SunzeY/AlphaCLIP), and
+    3. [RTS](https://github.com/visionml/pytracking) for the segmentation mask. 
+    
+We thank the authors for making their codes available.
 
 ## Citation
