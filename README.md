@@ -61,14 +61,14 @@ lib/test/evaluation/local.py  # paths about testing
 
 ## Dataset Preparation
 
+ - To be updated....
 
 ## Training
- - Checkpoints (alpha_clip, and STA)
- - Base checkpoint
+ - To be updated....
 
 ## Evaluation
 
- - Trained checkpoints
+ - To be updated....
 
 
 ## Acknowledgement
